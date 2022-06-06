@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pilih Alamat</name>
+   <tag></tag>
+   <elementGuidId>4c74a430-65d0-45cb-b96b-333e7c585c48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn--brand.btn--large.btn--block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[5]/div/div[2]/div[2]/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5f66aad7-35a1-4188-ae45-3d7b344b79fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn--brand btn--large btn--block</value>
+      <webElementGuid>4c9573c3-d134-48d6-a8c5-7363c7a6eb24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Alamat</value>
+      <webElementGuid>8337f115-1a5b-4827-99c8-41021f3e6918</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;appLayout&quot;]/div[@class=&quot;modalDrawer&quot;]/div[@class=&quot;modalDrawer__panel&quot;]/div[@class=&quot;modalDrawer__wrapper&quot;]/div[@class=&quot;appLayout__actions&quot;]/div[@class=&quot;appLayout__actions__panel&quot;]/button[@class=&quot;btn btn--brand btn--large btn--block&quot;]</value>
+      <webElementGuid>381d3829-f367-4082-b718-cb643d2f36a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[5]/div/div[2]/div[2]/div/button[2]</value>
+      <webElementGuid>97802203-ced7-4841-ae48-5a5890d417c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Alamat'])[1]/following::button[1]</value>
+      <webElementGuid>66a7b9d7-3fe2-429b-8b0e-ce41c85c95d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test'])[1]/following::button[2]</value>
+      <webElementGuid>35a381b4-c273-4aa0-864e-05595e1058c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pilih Alamat']/parent::*</value>
+      <webElementGuid>3096d470-d732-46b0-9875-7bae72de24f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div[2]/div/button[2]</value>
+      <webElementGuid>c47c8eb8-2725-45f4-b547-df41937dd8ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Pilih Alamat' or . = 'Pilih Alamat')]</value>
+      <webElementGuid>a6ac5405-f448-4e44-aab2-f8c4bbe3f803</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Kata Sandi_inputText__input</name>
+   <tag></tag>
+   <elementGuidId>96cdec76-4463-4759-83ca-5297e816173b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.inputText.inputText--focus.inputText--filled > span.inputText__inner > input.inputText__input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3f4e76c0-2d7b-495a-8468-608f46677b14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>9414449d-0db1-4321-81ae-a07bf9f4d95a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Kata Sandi Anda</value>
+      <webElementGuid>abfa12da-c28d-478d-b0d3-1ee59604ff4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inputText__input</value>
+      <webElementGuid>e209121e-f659-47ef-ba75-caaffa570a09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;appLayout&quot;]/div[1]/form[1]/label[@class=&quot;inputText inputText--focus inputText--filled&quot;]/span[@class=&quot;inputText__inner&quot;]/input[@class=&quot;inputText__input&quot;]</value>
+      <webElementGuid>403e2040-f1da-4094-90fe-20d5a7d8eb2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[2]</value>
+      <webElementGuid>5e5a07e8-3268-44b7-a04e-9a21a27431f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/form/label[2]/span[2]/input</value>
+      <webElementGuid>132e8ab6-5255-4102-860d-da8a42a249a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[2]/span[2]/input</value>
+      <webElementGuid>6b3f4b05-1369-4a83-bbde-c2ea53ea9c99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'password' and @placeholder = 'Kata Sandi Anda']</value>
+      <webElementGuid>1c1bf8d0-9d46-4df9-a008-ff74f1f12d07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

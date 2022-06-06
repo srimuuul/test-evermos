@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lihat Promo Tersedia</name>
+   <tag></tag>
+   <elementGuidId>e877243a-ce2b-4136-ac78-5662b698d7e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.promo__action</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cec5600f-7828-4267-9461-552b91b38dfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/my-voucher?apply-cta=1</value>
+      <webElementGuid>6e246aed-2102-4da1-85a8-0510dadf2c62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>promo__action</value>
+      <webElementGuid>22abe6e2-cb70-4a5f-9d48-580d50b93043</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Promo Tersedia</value>
+      <webElementGuid>7d062d71-5de2-41c9-8c85-46805e69262b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;appLayout&quot;]/div[@class=&quot;promo__wrapper&quot;]/a[@class=&quot;promo__action&quot;]</value>
+      <webElementGuid>81312143-95d2-40ae-a90c-bf8696c9ae86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[6]/a</value>
+      <webElementGuid>2b2f319e-d725-418d-8317-7926b720c216</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lihat Promo Tersedia')]</value>
+      <webElementGuid>75c6a606-0c35-484d-84d0-b087449b192d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gunakan'])[1]/following::a[1]</value>
+      <webElementGuid>10ae7f87-a31b-4e5e-bec7-0a32758aaaa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp116.862'])[1]/following::a[1]</value>
+      <webElementGuid>9f94416a-4f64-4d50-94d6-ac4cacb97927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mau Berinfaq Hari ini'])[1]/preceding::a[1]</value>
+      <webElementGuid>f1e9a0cb-08db-4d83-8308-af45a2efc58a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total poin yang akan didapatkan'])[1]/preceding::a[2]</value>
+      <webElementGuid>bde40d7a-1315-400f-997f-128b26f82efa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lihat Promo Tersedia']/parent::*</value>
+      <webElementGuid>61ebdee8-cedd-4d62-99c2-1150934b2fad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/my-voucher?apply-cta=1')]</value>
+      <webElementGuid>82e11de0-a464-4249-8125-d98e068d8c65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/a</value>
+      <webElementGuid>e500e342-e170-4c50-8cf6-90215d1e8851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/my-voucher?apply-cta=1' and (text() = 'Lihat Promo Tersedia' or . = 'Lihat Promo Tersedia')]</value>
+      <webElementGuid>32c9fa74-970c-4602-9f29-a9dec99b578e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

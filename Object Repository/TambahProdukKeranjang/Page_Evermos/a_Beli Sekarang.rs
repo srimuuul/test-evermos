@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Beli Sekarang</name>
+   <tag></tag>
+   <elementGuidId>8293f0bf-a8ee-415a-9098-2dc30ff8fa09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.productView__action__button.btn--brand</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[3]/div[3]/div[26]/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3163a8e5-3965-4a27-8476-017c61097cc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>9fbe5904-c51f-4376-a9b4-2c627f281014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>productView__action__button btn--brand</value>
+      <webElementGuid>8f1295da-949b-445a-9860-e01b67b700e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Beli Sekarang</value>
+      <webElementGuid>43faa9f4-5da2-499d-ae1b-eee01ffec222</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;appLayout&quot;]/div[@class=&quot;productView&quot;]/div[@class=&quot;productView__body&quot;]/div[@class=&quot;productView__actions&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;productView__action&quot;]/a[@class=&quot;productView__action__button btn--brand&quot;]</value>
+      <webElementGuid>681a0e3e-8402-496a-b356-dba61742647b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[3]/div[3]/div[26]/div/div[2]/a</value>
+      <webElementGuid>40885984-2215-49e0-9250-18fc389c9bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bagikan'])[1]/following::a[1]</value>
+      <webElementGuid>1eaf451a-ab6f-4ac8-ab4b-8e670e0f442a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bagikan Produk'])[10]/following::a[2]</value>
+      <webElementGuid>d96302db-31a4-4c3f-94fd-92df5547ced8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[10]</value>
+      <webElementGuid>71928a75-14c6-4347-abbe-1d81b29ef6ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[26]/div/div[2]/a</value>
+      <webElementGuid>26ccc215-bf26-4d35-bdfe-ef31135eb53c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '  Beli Sekarang' or . = '  Beli Sekarang')]</value>
+      <webElementGuid>a0c9bb8b-0dd8-4049-8a7e-89a1dc94f27b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
